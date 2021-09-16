@@ -1,0 +1,2 @@
+var width;
+var height;
